@@ -1,0 +1,5 @@
+Users/pranj/gitproject
+Ranjanas-MacBook-Air:gitproject pranj$ cd starter-web/
+Ranjanas-MacBook-Air:starter-web pranj$ git status
+On branch master
+Your branch is up to date with
